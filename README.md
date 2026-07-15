@@ -41,6 +41,10 @@ Este NO es un despacho de abogados ni asesoría legal individual. Es un proyecto
 
 Ver el detalle completo en [`00-fase0-planificacion/plan-fases.md`](00-fase0-planificacion/plan-fases.md).
 
+## Visión de producto (futuro)
+
+Este repositorio es la base de contenido para una futura web app (PWA) de calculador de prescripción y generador de cartas. Ver el plan completo, incluyendo por qué web app y no app nativa, regulaciones aplicables (protección de datos, ejercicio no autorizado de la abogacía) y roadmap técnico, en [`docs/plan-lanzamiento-producto.md`](docs/plan-lanzamiento-producto.md).
+
 ## Licencia
 
 Ver [`LICENSE.md`](LICENSE.md) — CC BY-SA 4.0 para el contenido, MIT para software futuro.
