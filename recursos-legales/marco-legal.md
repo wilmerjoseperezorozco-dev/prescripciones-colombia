@@ -52,9 +52,49 @@
 - [Decreto 264 de 2024 — SUIN-Juriscol](https://www.suin-juriscol.gov.co/viewDocument.asp?id=30051244)
 - [CISA — Normativa](https://www.cisa.gov.co/PortalCisa/la-entidad/qui%C3%A9nes-somos/normativa/)
 
+## 7. Tasa de usura — el "medidor de abuso" objetivo (añadido 2026-07-15)
+
+| Tema | Norma | Contenido verificado | Verificado |
+|---|---|---|---|
+| Techo legal de intereses | Certificación periódica de la Superintendencia Financiera — Interés Bancario Corriente | La tasa de usura = **1.5 veces el interés bancario corriente** certificado por la SFC, por modalidad de crédito (consumo/ordinario, microcrédito, consumo de bajo monto). Cambia periódicamente. Ejemplo verificado: **28,79% efectivo anual para julio de 2026** (fue 24,36% en enero, 28,17% en mayo de 2026 — hay que consultar el histórico para la fecha exacta del crédito de cada caso) | [x] — [Superfinanciera — certificación IBC](https://www.superfinanciera.gov.co/publicaciones/10116142/superfinanciera-certifica-el-interes-bancario-corriente/), [histórico tasa de usura SFC](https://www.superfinanciera.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=1069287) |
+| Delito de usura | Código Penal, art. 305 | Cobrar, directa o indirectamente, una utilidad que exceda la tasa de usura certificada incurre en **prisión de 32 a 90 meses y multa de 66.66 a 300 SMLMV**. Si se trata de compra de cheque/sueldo/salario en esas condiciones, la pena sube a 48-126 meses de prisión | [x] — [leyes.co art. 305](https://leyes.co/codigo_penal/305.htm) |
+| A dónde denunciar | Fiscalía General de la Nación, Policía, y la SIC (que reportó una línea activa de investigación contra "prestamistas usureros") | Se recomienda no confrontar directamente al prestamista y documentar toda prueba (contrato, pagaré, comprobantes de pago) antes de denunciar | [x] — [SIC — ofensiva contra prestamistas usureros](https://www.sic.gov.co/noticias/superindustria-arranca-ofensiva-contra-prestamistas-usureros) |
+
+**Cómo se usa esto en la práctica:** tomar la tasa de interés efectiva anual pactada en el contrato/pagaré del crédito, y compararla contra la tasa de usura certificada **para el período en que se pactó o se cobró ese interés** (no la de hoy — hay que usar el histórico). Si el interés cobrado supera el techo vigente en ese momento, es indicio de usura, denunciable.
+
+## 8. Insolvencia de persona natural no comerciante — el frente activo para salir de la deuda
+
+| Tema | Norma | Contenido verificado | Verificado |
+|---|---|---|---|
+| Marco legal | Código General del Proceso (Ley 1564 de 2012), Título IV, arts. 531-576, reformado por la **Ley 2445 de 2025** | Procedimiento formal para que una persona natural no comerciante (o pequeño comerciante, activos < 1.000 SMLMV excluyendo vivienda familiar y vehículo de trabajo) **negocie todas sus deudas con todos sus acreedores en un solo trámite** | [x] — [insolvenciacolombia.com — Ley 1564 reformada por Ley 2445/2025](https://insolvenciacolombia.com/case/ley-1564-reformada-por-ley-2445-de-2025-insolvencia-persona-natural/) |
+| Requisito de acceso: cesación de pagos | Título IV CGP | Estar en mora **más de 90 días con 2 o más acreedores**, o tener **2 o más procesos ejecutivos** en curso, y estar en mora en al menos el **30% del pasivo total** | [x] — [Cámara de Arbitraje y Conciliación (CAC)](https://www.centroarbitrajeconciliacion.com/Servicios/Conciliacion/Insolvencia/proceso-de-insolvencia-en-el-cac) |
+| Qué se debe presentar | Título IV CGP | Solicitud indicando las causas de la cesación de pagos (ej. enfermedad, desempleo, divorcio); si es pequeño comerciante, constancia de matrícula mercantil; relación completa de acreedores y deudas | [x] — misma fuente |
+| Dónde se tramita | Título IV CGP | **Centros de Arbitraje y Conciliación (Cámaras de Comercio)**, notarías, o juez civil municipal según el caso. Personería, Defensoría del Pueblo y consultorios jurídicos universitarios dan asesoría e información gratuita | [x] — [Cámara de Comercio de Tunja](https://cctunja.org.co/centro-de-conciliacion-y-arbitraje/insolvencia-persona-natural-no-comerciante/), [Min. Justicia — LegalApp](https://www.minjusticia.gov.co/programas-co/LegalApp/Paginas/%C2%BFQu%C3%A9-hacer-si-soy-una-persona-natural-no-comerciante-y-no-puedo-pagar-mis-deudas.aspx) |
+| Plazos y costo | Título IV CGP | El trámite dura **60 días hábiles, prorrogables 30 días más**. En centros públicos el servicio es gratuito (el solicitante asume gastos de comunicaciones/secretariales); centros privados y notarías pueden cobrar | [x] — [CAC](https://www.centroarbitrajeconciliacion.com/Servicios/Conciliacion/Insolvencia/proceso-de-insolvencia-en-el-cac) |
+| Qué logra el proceso | Título IV CGP | Al admitirse la solicitud, **se suspenden los procesos ejecutivos y embargos en curso** contra el deudor mientras se negocia. Tres vías posibles: negociación de deudas, convalidación de acuerdo privado, o liquidación patrimonial si no hay acuerdo | [x] — [Cámara de Comercio de Pereira](https://camarapereira.org.co/es/insolvencia-de-persona-natural-no-comerciante) |
+
+## 9. Derecho a modificación/reestructuración de crédito sin costo
+
+| Tema | Norma | Contenido verificado | Verificado |
+|---|---|---|---|
+| Gratuidad de la modificación | Circulares SFC sobre modificación de créditos según capacidad de pago | El proceso de modificación de condiciones de un crédito, **conducido por la entidad financiera, no tiene costo para el consumidor financiero** | [x] — [Superfinanciera — ABC modificación de crédito](https://www.superfinanciera.gov.co/publicaciones/10090487/abc-modificacion-en-las-condiciones-del-credito-segun-capacidad-de-pago-del-deudor-10090487/) |
+| Cuándo no cuenta como "reestructuración" (no perjudica la calificación) | Circulares SFC | Si en los últimos 6 meses el crédito no presenta mora consecutiva mayor a 60 días (microcrédito/consumo) o 90 días (comercial/vivienda), la modificación **no se considera reestructuración** y no exige provisión especial ni empeora necesariamente la calificación | [x] — misma fuente |
+| Tiempo para salir de "seguimiento especial" tras modificación | Circulares SFC | Pagando puntual: **9 meses (microcrédito) / 1 año (consumo) / 2 años (comercial o vivienda)** | [x] — misma fuente |
+| Precedente de refinanciación ordenada de oficio | Circular Externa 003 de 2026 SFC (medida excepcional para zonas de emergencia climática) | Muestra que la SFC **sí tiene la facultad de ordenar a los bancos refinanciar sin que el cliente lo pida** en circunstancias excepcionales — no es la regla general, pero confirma que la entidad tiene ese poder regulatorio | [x] — [Infobae, 2026-03-21](https://www.infobae.com/colombia/2026/03/21/superfinanciera-ordena-a-los-bancos-refinanciar-de-oficio-las-deudas-de-afectados-por-la-emergencia-climatica-en-varios-departamentos/) |
+
+## 10. Puntaje / score crediticio (Datacrédito)
+
+| Tema | Fuente | Contenido verificado | Verificado |
+|---|---|---|---|
+| Escala vigente | Datacrédito Experian | **150 a 999 puntos** (escala vigente confirmada en fuentes de 2026; documentos más antiguos mencionan una escala previa de 300-900 — **si se cita en el producto final, confirmar la escala vigente al momento de publicar, porque el operador puede actualizarla**) | [x] — [Datacrédito — Datablog](https://www.datacredito.com.co/blogs/datablog/como-funciona-el-puntaje-de-datacredito/), [Comparabien](https://comparabien.com.co/blog-consejos/tabla-puntaje-datacredito-consulta-e-interpreta-tu-score-facil) |
+| Factores del cálculo | Datacrédito Experian | 4 factores: **hábitos de pago** (el de mayor peso negativo), **nivel de endeudamiento** (% de ocupación de cupos), **composición del portafolio** de productos, **experiencia crediticia** (años de historial activo) | [x] — misma fuente |
+| Interpretación de rangos | Datacrédito / fuentes secundarias | No existe una calificación oficial única de "bueno/malo" — cada entidad usa su propio modelo de riesgo. Como referencia orientativa (no oficial/absoluta): 150-499 se asocia a riesgo alto, por encima de 700 se asocia a manejo adecuado de las finanzas | [x] — con la salvedad explícita de que no es una escala oficial cerrada |
+
 ## Pendiente antes de publicar
 
 - [ ] Reconfirmar el estado del portal de reclamaciones de la SIC justo antes de la publicación final (es información que cambia con el tiempo, no un vacío de investigación — todo lo demás en este documento ya quedó verificado el 2026-07-15).
+- [ ] Reconfirmar la tasa de usura vigente en el momento de publicar el producto final (cambia periódicamente — no dejar un número fijo sin fecha en el contenido final, siempre citar el período).
+- [ ] Confirmar la escala vigente del puntaje Datacrédito (150-999 vs. posible actualización futura) antes de publicar cualquier "medidor de puntaje" en el producto.
 
 ## 6. Regla de oro para este proyecto
 

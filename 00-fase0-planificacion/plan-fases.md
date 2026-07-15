@@ -70,5 +70,11 @@ Hipótesis a verificar y explicar con norma:
   - [x] Confirmado el alcance real de la cesión FNG→CISA: limitado al programa "Unidos por Colombia" (Decreto 264/2024), no generalizable a todos los programas de garantía — corregido en el informe.
   - [x] Confirmado texto literal de arts. 2539-2540 del Código Civil (interrupción de la prescripción).
   - [ ] Único punto que queda intrínsecamente abierto (no por falta de verificación, sino porque cambia con el tiempo): reconfirmar el estado del portal de la SIC justo antes de publicar la web app.
+- **Fase 3.5 — Frente activo (hecha, 2026-07-15):** ampliación del alcance del proyecto de "solo defensa" a "defensa + salida activa de deuda", pedida explícitamente por el autor ("atacar los dos frentes").
+  - [x] `recursos-legales/marco-legal.md`, secciones 7-10: tasa de usura y delito de usura (Código Penal art. 305), Insolvencia de Persona Natural No Comerciante (CGP Título IV, Ley 2445/2025), derecho a modificación/reestructuración gratuita de crédito, puntaje/score Datacrédito — todo verificado contra fuente oficial.
+  - [x] `docs/salida-de-deuda-formal.md` — documento central que conecta frente defensivo + frente activo con árbol de decisión.
+  - [x] `plantillas/04-comparador-tasa-usura.md` — checklist para comparar la tasa del usuario contra el techo legal certificado.
+  - [x] `plantillas/05-guia-insolvencia-persona-natural.md` — guía de requisitos, documentos y dónde tramitar la insolvencia.
+  - [x] `plantillas/00-checklist-autoevaluacion.md` actualizado para enrutar entre ambos frentes.
 - **Fase 4 — Iteración**: canal de retroalimentación, posible alianza con consultorios jurídicos universitarios (ver referencia CUC ya usada en LegalTech Avatares), revisión legal externa antes de construir la web app.
-- **Fase 5+ — Producto**: ver `docs/plan-lanzamiento-producto.md` para el plan de web app (PWA), regulaciones aplicables y roadmap técnico.
+- **Fase 5+ — Producto**: ver `docs/plan-lanzamiento-producto.md` para el plan de web app (PWA); el alcance del futuro calculador debe ampliarse para cubrir también el frente activo (usura, elegibilidad de insolvencia), no solo prescripción.

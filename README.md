@@ -1,16 +1,22 @@
 # Prescripciones en Colombia
 
-Proyecto de investigación y educación legal ciudadana sobre **prescripción de deudas**, **fondos de garantías (FNG)** y **prácticas de cobranza extrajudicial en Colombia**.
+Proyecto de investigación y educación legal ciudadana sobre **prescripción de deudas**, **fondos de garantías (FNG)**, **prácticas de cobranza extrajudicial**, **tasa de usura** e **insolvencia de persona natural** en Colombia.
 
 > ⚠️ Este repositorio es informativo/educativo. No constituye asesoría legal individual. Ver sección "Lo que este proyecto NO es" en [`docs/informe-situacion.md`](docs/informe-situacion.md).
 
 ## Misión
 
-Documentar, con base en la ley colombiana, cómo opera el ciclo completo de un crédito respaldado por un fondo de garantías cuando el deudor incumple — desde el pago del siniestro a la entidad financiera hasta la cesión o gestión de la cartera castigada por firmas de cobranza — y traducirlo a lenguaje claro para que la población vulnerable o sin acceso a asesoría legal pueda:
+Dar a los colombianos las dos herramientas que la mayoría no conoce: **defenderse** de un cobro indebido o prescrito, y **salir activamente** de una deuda legítima pero impagable, cumpliendo lo pactado — todo con base en la ley colombiana, en lenguaje claro. Ver el mapa completo en [`docs/salida-de-deuda-formal.md`](docs/salida-de-deuda-formal.md).
 
-1. Entender sus derechos (prescripción, hábeas data financiero, límites legales a la cobranza).
-2. Identificar prácticas de cobranza que exceden lo permitido por la ley.
-3. Actuar (derechos de petición, reclamaciones ante SIC/SFC, defensa en procesos judiciales).
+**Frente defensivo:**
+1. Entender la prescripción de deudas y el ciclo fondo de garantías → cobranza.
+2. Identificar prácticas de cobranza que exceden lo permitido por la ley (Ley 2300/2023).
+3. Actuar (derechos de petición, tutela, defensa en procesos judiciales).
+
+**Frente activo:**
+4. Comparar tu tasa de interés contra el techo legal (tasa de usura) — un medidor objetivo de abuso.
+5. Pedir modificación/reestructuración gratuita del crédito según tu capacidad de pago real.
+6. Conocer y usar la Insolvencia de Persona Natural No Comerciante para negociar todas tus deudas en un solo proceso legal formal.
 
 Este NO es un despacho de abogados ni asesoría legal individual. Es un proyecto de **alfabetización legal y transparencia**, hecho por investigadores ciudadanos, con toda la información citada a norma o jurisprudencia verificable.
 
@@ -34,9 +40,10 @@ Este NO es un despacho de abogados ni asesoría legal individual. Es un proyecto
 ## Estado actual
 
 - ✅ Fase 0 — Planificación
-- ✅ Fase 1 — Plantillas (derecho de petición, excepción de prescripción, tutela)
+- ✅ Fase 1 — Plantillas del frente defensivo (derecho de petición, excepción de prescripción, tutela)
 - ✅ Fase 2 — Casos anonimizados de estudio
-- 🔜 Fase 3 — Preentrega (cerrar 4 puntos legales menores pendientes, ver `recursos-legales/marco-legal.md`)
+- ✅ Fase 3 — Preentrega (verificación legal completa, ver `recursos-legales/marco-legal.md`)
+- ✅ Fase 3.5 — Frente activo añadido (tasa de usura, modificación de crédito, insolvencia de persona natural)
 - 🔜 Fase 4 — Iteración pública y alianzas
 
 Ver el detalle completo en [`00-fase0-planificacion/plan-fases.md`](00-fase0-planificacion/plan-fases.md).
