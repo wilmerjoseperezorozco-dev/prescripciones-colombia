@@ -47,22 +47,28 @@ Hipótesis a verificar y explicar con norma:
 
 - [x] Estructura de carpetas del repositorio.
 - [x] Este plan de fases.
-- [x] `recursos-legales/marco-legal.md` con normas citadas (pendiente de verificación final contra fuente oficial).
-- [x] `docs/informe-situacion.md` — borrador del informe público.
-- [ ] Definición de licencia y política de contribución (Fase 1).
+- [x] `recursos-legales/marco-legal.md` con normas citadas, verificado contra fuente oficial (Fase 3, 2026-07-15).
+- [x] `docs/informe-situacion.md` — informe público, v0.3.
+- [x] Definición de licencia y política de contribución.
 
 ## 7. Fases siguientes (resumen)
 
-- **Fase 1 — Infraestructura (en curso):**
+- **Fase 1 — Infraestructura (hecha):**
   - [x] `plantillas/00-checklist-autoevaluacion.md` — guía de qué plantilla usar según la situación del deudor.
   - [x] `plantillas/01-derecho-peticion-informacion-deuda.md` — mecanismo priorizado según la experiencia real del autor (funcionó antes de que hubiera demanda).
   - [x] `plantillas/02-excepcion-prescripcion.md` — para cuando ya hay proceso judicial notificado (con advertencia de plazos cortos).
   - [x] `plantillas/03-tutela-habeas-data.md` — alternativa cuando el derecho de petición no se responde o el portal de la SIC falla (barrera práctica real reportada por el autor).
-  - [ ] Repo en GitHub (privado hasta aprobación explícita del autor).
-  - [ ] Definir licencia (sugerido: CC BY-SA 4.0 informe/plantillas, MIT si hay herramienta de software futura).
+  - [x] Repo público en GitHub: https://github.com/wilmerjoseperezorozco-dev/prescripciones-colombia
+  - [x] Licencia definida: CC BY-SA 4.0 (contenido), MIT (software futuro) — ver `LICENSE.md`.
 - **Fase 2 — Estados vacíos / casos piloto (hecha):**
   - [x] `casos-anonimizados/00-plantilla-caso-vacia.md` — plantilla para que cualquier lector documente su propio caso.
   - [x] `casos-anonimizados/caso-001.md` — caso del investigador, anonimizado (sin fechas/montos/entidad exactos, solo el patrón: 3-5 años de mora, derecho de petición antes de demanda, obstáculo con el portal SIC).
   - [ ] Sumar 1-2 casos adicionales de otros tipos de crédito cuando estén disponibles.
-- **Fase 3 — Preentrega**: cerrar los 4 puntos legales pendientes listados en `recursos-legales/marco-legal.md` (arts. 2539-2540 CC, circular SFC, alcance FNG→CISA, estado actual del portal SIC), revisión de lenguaje claro (comprensible sin formación jurídica).
-- **Fase 4 — Iteración**: publicación pública, canal de retroalimentación, posible alianza con consultorios jurídicos universitarios (ver referencia CUC ya usada en LegalTech Avatares).
+- **Fase 3 — Preentrega (hecha, 2026-07-15):**
+  - [x] Verificadas todas las citas legales contra fuente oficial (Función Pública, Superfinanciera, SUIN-Juriscol, fng.gov.co, CISA).
+  - [x] Corrección importante: se retiró la referencia a la Circular Externa 026/2019 SFC (no trataba de cobranza) — la Ley 2300/2023 quedó como norma central de cobranza.
+  - [x] Confirmado el alcance real de la cesión FNG→CISA: limitado al programa "Unidos por Colombia" (Decreto 264/2024), no generalizable a todos los programas de garantía — corregido en el informe.
+  - [x] Confirmado texto literal de arts. 2539-2540 del Código Civil (interrupción de la prescripción).
+  - [ ] Único punto que queda intrínsecamente abierto (no por falta de verificación, sino porque cambia con el tiempo): reconfirmar el estado del portal de la SIC justo antes de publicar la web app.
+- **Fase 4 — Iteración**: canal de retroalimentación, posible alianza con consultorios jurídicos universitarios (ver referencia CUC ya usada en LegalTech Avatares), revisión legal externa antes de construir la web app.
+- **Fase 5+ — Producto**: ver `docs/plan-lanzamiento-producto.md` para el plan de web app (PWA), regulaciones aplicables y roadmap técnico.

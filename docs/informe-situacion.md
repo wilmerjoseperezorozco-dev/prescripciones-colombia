@@ -1,6 +1,6 @@
 # El ciclo silencioso de la cobranza en Colombia: qué pasa después de que el fondo de garantías ya cobró
 
-**Borrador v0.2 — citas legales verificadas contra fuente oficial el 2026-07-15 (ver detalle en `recursos-legales/marco-legal.md`); quedan 4 puntos menores por cerrar antes de publicar. Pendiente revisión final del autor.**
+**Borrador v0.3 — Fase 3 (preentrega) cerrada el 2026-07-15: todas las citas legales verificadas contra fuente oficial (ver detalle en `recursos-legales/marco-legal.md`). Pendiente revisión final del autor antes de publicación pública fuera de este repositorio.**
 
 > Este documento es un informe educativo elaborado por investigadores ciudadanos, no un despacho de abogados. Cada afirmación legal está respaldada por la norma citada en [`recursos-legales/marco-legal.md`](../recursos-legales/marco-legal.md).
 
@@ -13,7 +13,7 @@ Miles de colombianos siguen pagando, o siendo demandados y amenazados por, deuda
 1. Una persona toma un crédito (libranza, microcrédito, crédito de consumo, tarjeta) respaldado por un **fondo de garantías** (el más conocido a nivel nacional es el Fondo Nacional de Garantías — FNG).
 2. Si la persona incumple, la entidad financiera reclama al fondo el pago de la parte garantizada — el fondo no garantiza el 100% del crédito, sino un porcentaje. [Verificado — reglamento operativo FNG]
 3. El fondo paga ese siniestro a la entidad — **no** al deudor, ni cancela la deuda del deudor. El fondo **se subroga**: por ley, adquiere el derecho de cobrar al deudor lo que pagó. [Verificado — reglamento operativo FNG, figura de pago con subrogación]
-4. A partir de ahí, la cartera puede quedar en manos del propio fondo, o ser cedida a un tercero de gestión de activos. **Dato encontrado en esta investigación**: al menos en el programa especial "Unidos por Colombia", el FNG puede ceder la cartera pagada por garantías, sin costo, a CISA (Central de Inversiones S.A., entidad estatal de gestión de activos) — *este hallazgo está pendiente de confirmar si aplica a otros programas de garantía además de ese*.
+4. A partir de ahí, la cartera puede quedar en manos del propio fondo, o ser cedida a un tercero de gestión de activos. **Dato verificado en esta investigación** (Decreto 264 de 2024): en el programa específico "Unidos por Colombia", el FNG puede ceder la cartera pagada por garantías, sin costo, a CISA (Central de Inversiones S.A., entidad estatal de gestión de activos) mediante convenio interadministrativo. Este es un ejemplo confirmado de que existe, en al menos un programa, un mecanismo legal de cesión a un tercero distinto del banco original — no está confirmado como regla universal para todos los programas de garantía del FNG.
 5. Empieza (o continúa) el cobro al deudor — por años, en algunos casos con llamadas, visitas, o procesos judiciales — **sin que a la persona se le explique con claridad** en qué momento empezó a deberle a un tercero distinto del banco original, ni que existen plazos legales que pueden jugar a su favor.
 
 ## 3. "¿Por qué la deuda no baja aunque yo pague?"
@@ -22,7 +22,7 @@ Esta es la pregunta que más golpea a las familias afectadas. Las razones, ya ve
 
 - **Los intereses moratorios siguen corriendo** sobre el saldo mientras la deuda esté en mora, y pueden crecer más rápido que los abonos parciales.
 - **Quien cobra ahora no es quien te prestó.** Si la cartera fue cedida o el fondo se subrogó, cada pago puede estarse aplicando bajo condiciones distintas a las del crédito original, y esto no siempre se comunica con claridad.
-- **La deuda no desaparece sola con el tiempo, aunque legalmente sí deja de ser exigible.** La **prescripción de la acción ejecutiva es de 5 años**, y si nadie actúa, se transforma en acción ordinaria por 5 años más — 10 años en total desde el origen (Código Civil, art. 2536, modificado por la Ley 791 de 2002). Si la deuda está documentada en un pagaré o letra, la acción cambiaria directa prescribe en solo **3 años** desde el vencimiento (Código de Comercio, art. 789). Pero — y esto es clave — **la prescripción no opera automáticamente**: la ley dice textualmente que *"el que quiera aprovecharse de la prescripción debe alegarla; el juez no puede declararla de oficio"* (Código Civil, art. 2513). Si nadie la alega, el proceso sigue como si la deuda estuviera vigente, aunque legalmente ya no lo esté.
+- **La deuda no desaparece sola con el tiempo, aunque legalmente sí deja de ser exigible.** La **prescripción de la acción ejecutiva es de 5 años**, y si nadie actúa, se transforma en acción ordinaria por 5 años más — 10 años en total desde el origen (Código Civil, art. 2536, modificado por la Ley 791 de 2002). Si la deuda está documentada en un pagaré o letra, la acción cambiaria directa prescribe en solo **3 años** desde el vencimiento (Código de Comercio, art. 789). Ese conteo se reinicia desde cero si el deudor reconoce la deuda de forma expresa o tácita (por ejemplo, con un pago parcial), o si se le notifica válidamente una demanda judicial (Código Civil, art. 2539). Pero — y esto es clave — **la prescripción no opera automáticamente**: la ley dice textualmente que *"el que quiera aprovecharse de la prescripción debe alegarla; el juez no puede declararla de oficio"* (Código Civil, art. 2513). Si nadie la alega, el proceso sigue como si la deuda estuviera vigente, aunque legalmente ya no lo esté.
 
 **Este último punto es el corazón del problema**: la ley sí protege al deudor con el paso del tiempo, pero esa protección es "silenciosa" — no actúa por sí sola. Si la persona no sabe que existe, o no tiene cómo alegarla, sigue pagando o siendo perseguida por una deuda que un juez, si se lo pidieran, probablemente declararía prescrita.
 
@@ -62,9 +62,10 @@ Plantillas completas y listas para adaptar en [`plantillas/`](../plantillas):
 
 - [x] Verificar las citas legales principales contra fuente oficial (ver `recursos-legales/marco-legal.md`).
 - [x] Publicar plantillas de derecho de petición, excepción de prescripción y tutela (Fase 1).
-- [ ] Cerrar 4 puntos legales menores pendientes (arts. 2539-2540 CC, circular SFC de cobranza, alcance de la cesión de cartera FNG→CISA, estado del portal SIC).
-- [ ] Documentar 2-3 casos anonimizados que ilustren el patrón paso a paso, cubriendo distintos tipos de crédito (Fase 2).
-- [ ] Publicar el repositorio y este informe públicamente, bajo licencia abierta, tras revisión final del autor.
+- [x] Documentar casos anonimizados que ilustren el patrón paso a paso (Fase 2).
+- [x] Cerrar los puntos legales pendientes de la Fase 3 (preentrega) — ver `recursos-legales/marco-legal.md`.
+- [x] Publicar el repositorio en GitHub bajo licencia abierta (CC BY-SA 4.0).
+- [ ] Revisión legal externa (abogado/consultorio jurídico) antes de construir la web app descrita en `docs/plan-lanzamiento-producto.md`.
 
 ---
 
