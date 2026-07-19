@@ -2,6 +2,10 @@
 
 **⚠️ Esta plantilla es solo una guía de estructura, NO un formato para presentar sin revisión.** Si ya te notificaron una demanda o un mandamiento de pago, **el plazo para responder es corto y perentorio**. Busca apoyo de un consultorio jurídico universitario, la Defensoría del Pueblo, o un abogado ANTES de presentar esto — un error de forma o un término vencido puede cerrar la oportunidad de alegar la excepción.
 
+**¿Necesitas abogado para esto?** Depende de la cuantía de la deuda que te cobran:
+- Si la deuda es de **menos de 40 salarios mínimos mensuales legales vigentes (SMLMV)** — proceso de **mínima cuantía** — **puedes representarte a ti mismo, sin abogado inscrito** (Decreto 196 de 1971, art. 25 Código General del Proceso). El proceso es de única instancia (sin apelación), ante Juez Civil Municipal. Ver `recursos-legales/marco-legal.md`, sección 11.
+- Si supera ese monto, la complejidad procesal aumenta y sí es recomendable tener representación de un consultorio jurídico o abogado.
+
 **Cuándo usarla:** cuando ya fuiste notificado formalmente de un proceso ejecutivo (mandamiento de pago) y consideras, según los tiempos, que la acción ya prescribió.
 
 **Base legal general:** Código General del Proceso, arts. sobre excepciones en proceso ejecutivo; Código Civil arts. 2512 y ss. (prescripción como modo de extinguir acciones); la prescripción debe alegarse expresamente, no se declara de oficio. 📖 *Todo esto pendiente de verificación exacta de artículos antes de publicar.*

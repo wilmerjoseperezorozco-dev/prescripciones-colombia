@@ -76,5 +76,12 @@ Hipótesis a verificar y explicar con norma:
   - [x] `plantillas/04-comparador-tasa-usura.md` — checklist para comparar la tasa del usuario contra el techo legal certificado.
   - [x] `plantillas/05-guia-insolvencia-persona-natural.md` — guía de requisitos, documentos y dónde tramitar la insolvencia.
   - [x] `plantillas/00-checklist-autoevaluacion.md` actualizado para enrutar entre ambos frentes.
+- **Fase 3.6 — Puente educación→ejecución (hecha, 2026-07-19):** a pedido explícito del autor, para que "el trabajo vaya hacia lo educacional pero enseguida se ejecute el proceso" — derriba la barrera de creer que hace falta pagar abogado.
+  - [x] `recursos-legales/marco-legal.md`, sección 11: verificado que tutela, derecho de petición, conciliación (Ley 2220/2022, que derogó la Ley 640/2001), procesos civiles de mínima cuantía (<40 SMLMV) y laborales de única instancia (<20 SMLMV) **no requieren abogado**.
+  - [x] `docs/puedes-hacerlo-sin-abogado.md` — documento puente con tabla de acción inmediata: mecanismo, umbral, plantilla lista para usar.
+  - [x] `plantillas/06-demanda-sin-abogado-minima-cuantia.md` — guía para demandar en mínima cuantía civil/laboral sin abogado.
+  - [x] `plantillas/02-excepcion-prescripcion.md` actualizada con la distinción de cuantía (mínima cuantía = sin abogado).
+  - [x] `plantillas/00-checklist-autoevaluacion.md` actualizado con referencias "sin abogado" en cada fila.
+  - [ ] Pendiente verificar articulado exacto de la Ley 2220 de 2022 (reemplaza a la Ley 640/2001) antes de citar un artículo específico.
 - **Fase 4 — Iteración**: canal de retroalimentación, posible alianza con consultorios jurídicos universitarios (ver referencia CUC ya usada en LegalTech Avatares), revisión legal externa antes de construir la web app.
-- **Fase 5+ — Producto**: ver `docs/plan-lanzamiento-producto.md` para el plan de web app (PWA); el alcance del futuro calculador debe ampliarse para cubrir también el frente activo (usura, elegibilidad de insolvencia), no solo prescripción.
+- **Fase 5+ — Producto**: ver `docs/plan-lanzamiento-producto.md` para el plan de web app (PWA); el alcance del futuro calculador debe ampliarse para cubrir el frente activo (usura, elegibilidad de insolvencia) y mostrar explícitamente, en cada resultado, si el usuario necesita o no abogado para el siguiente paso.

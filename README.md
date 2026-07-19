@@ -18,6 +18,8 @@ Dar a los colombianos las dos herramientas que la mayoría no conoce: **defender
 5. Pedir modificación/reestructuración gratuita del crédito según tu capacidad de pago real.
 6. Conocer y usar la Insolvencia de Persona Natural No Comerciante para negociar todas tus deudas en un solo proceso legal formal.
 
+**De la teoría a la ejecución:** [`docs/puedes-hacerlo-sin-abogado.md`](docs/puedes-hacerlo-sin-abogado.md) — tutela, derecho de petición, conciliación, y procesos civiles/laborales de mínima cuantía (menos de 40 / 20 SMLMV) **no requieren abogado por ley**. La barrera más común no es que la herramienta no exista, es creer que hace falta dinero para usarla.
+
 Este NO es un despacho de abogados ni asesoría legal individual. Es un proyecto de **alfabetización legal y transparencia**, hecho por investigadores ciudadanos, con toda la información citada a norma o jurisprudencia verificable.
 
 ## Principios
@@ -44,6 +46,7 @@ Este NO es un despacho de abogados ni asesoría legal individual. Es un proyecto
 - ✅ Fase 2 — Casos anonimizados de estudio
 - ✅ Fase 3 — Preentrega (verificación legal completa, ver `recursos-legales/marco-legal.md`)
 - ✅ Fase 3.5 — Frente activo añadido (tasa de usura, modificación de crédito, insolvencia de persona natural)
+- ✅ Fase 3.6 — Puente educación→ejecución: cuándo NO se necesita abogado (tutela, petición, conciliación, mínima cuantía civil/laboral)
 - 🔜 Fase 4 — Iteración pública y alianzas
 
 Ver el detalle completo en [`00-fase0-planificacion/plan-fases.md`](00-fase0-planificacion/plan-fases.md).

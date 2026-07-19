@@ -24,10 +24,13 @@ Marca lo que aplique a tu caso. Esto no es asesoría legal puntual — es una gu
 | Si marcaste... | Empieza por... |
 |---|---|
 | Las primeras 3-4 casillas del frente defensivo, y NO hay demanda notificada | [`01-derecho-peticion-informacion-deuda.md`](01-derecho-peticion-informacion-deuda.md) |
-| "Sí me llegó una notificación judicial / demanda" | [`02-excepcion-prescripcion.md`](02-excepcion-prescripcion.md) — **y busca apoyo de un consultorio jurídico o abogado; los plazos procesales son cortos** |
-| Reporte negativo desactualizado, o no te respondieron el derecho de petición a tiempo | [`03-tutela-habeas-data.md`](03-tutela-habeas-data.md) |
+| "Sí me llegó una notificación judicial / demanda" | [`02-excepcion-prescripcion.md`](02-excepcion-prescripcion.md) — **si la deuda es menor a 40 SMLMV puedes representarte tú mismo (mínima cuantía); si es mayor, busca apoyo de un consultorio jurídico o abogado. Los plazos procesales son cortos en ambos casos** |
+| Reporte negativo desactualizado, o no te respondieron el derecho de petición a tiempo | [`03-tutela-habeas-data.md`](03-tutela-habeas-data.md) — no necesitas abogado |
 | La tasa de interés te parece alta | [`04-comparador-tasa-usura.md`](04-comparador-tasa-usura.md) |
 | Deuda legítima pero impagable en las condiciones actuales | Solicitud de modificación gratuita — ver `docs/salida-de-deuda-formal.md`, Paso 2 |
 | Varios acreedores, varios procesos, no hay forma de organizar los pagos | [`05-guia-insolvencia-persona-natural.md`](05-guia-insolvencia-persona-natural.md) |
+| Ya intentaste lo anterior y necesitas demandar por un monto pequeño (deuda a tu favor, salarios/prestaciones no pagados) | [`06-demanda-sin-abogado-minima-cuantia.md`](06-demanda-sin-abogado-minima-cuantia.md) — civil hasta 40 SMLMV, laboral hasta 20 SMLMV, sin abogado |
+
+**¿Necesitas pagar un abogado para todo esto? En la mayoría de los casos, NO.** Ver [`docs/puedes-hacerlo-sin-abogado.md`](../docs/puedes-hacerlo-sin-abogado.md) — tutela, derecho de petición, conciliación, y los procesos de mínima cuantía civil y laboral **no requieren abogado por ley**. Esa es, con frecuencia, la barrera más grande para la gente que no conoce sus derechos: creer que necesita dinero para empezar.
 
 **Recordatorio central del proyecto:** ninguna de estas herramientas actúa sola. Hay que presentarlas activamente — la prescripción no se declara "sola" con el paso del tiempo, y la insolvencia no se otorga sin pedirla formalmente. Ver [`docs/salida-de-deuda-formal.md`](../docs/salida-de-deuda-formal.md).
