@@ -62,3 +62,70 @@ Ver [`LICENSE.md`](LICENSE.md) — CC BY-SA 4.0 para el contenido, MIT para soft
 ## Contribuir
 
 Este proyecto está pensado para ser replicado por cualquier colombiano. Si quieres documentar tu propio caso de forma anónima, usa [`casos-anonimizados/00-plantilla-caso-vacia.md`](casos-anonimizados/00-plantilla-caso-vacia.md) y abre un Pull Request.
+
+---
+
+## 🌐 Overview · Resumen
+
+<table>
+<tr>
+<td width="50%">
+
+### 🇬🇧 English
+
+**Civic legal literacy on debt prescription, illegal collection, and debt exit pathways in Colombia** — every claim cites the exact law, article, or ruling. No legal advice. No named institutions without verified evidence.
+
+**What it solves:** Most Colombians do not know that debts prescribe (statute of limitations), that many collection practices violate Law 2300/2023, or that formal debt exit tools — credit restructuring, Personal Insolvency (Ley 1564/2012) — exist and are free to use without a lawyer in many cases. This project puts that knowledge in plain language, fully cited, for anyone to use.
+
+**Two fronts:**
+
+**Defensive** — know when a debt is prescribed, recognize illegal collection tactics, and respond with rights-of-petition, tutelas, or legal exceptions that require no attorney.
+
+**Active** — compare your interest rate against the legal usury ceiling, request free credit restructuring based on your real payment capacity, or start a Personal Insolvency process to negotiate all debts in a single legal proceeding.
+
+> *The most common barrier is not that the tool doesn't exist — it's believing you need money to use it.*
+
+**Use it:**
+```bash
+cat docs/informe-situacion.md            # full situational report
+cat docs/salida-de-deuda-formal.md       # complete debt-exit map
+cat docs/puedes-hacerlo-sin-abogado.md  # what you can do without a lawyer
+ls plantillas/                            # ready-to-use petition and defense letters
+```
+
+**Status:** Phases 0–3.6 complete · Phase 4 pending: public outreach + alliances with university legal clinics and the Defensoría del Pueblo. Future product: PWA prescription calculator + auto-generated defense letters.
+
+**License:** CC BY-SA 4.0 (content) · MIT (future software).
+
+</td>
+<td width="50%">
+
+### 🇨🇴 Español
+
+**Alfabetización legal ciudadana sobre prescripción de deudas, cobranza ilegal y rutas de salida de deuda en Colombia** — toda afirmación cita la ley, artículo o sentencia exacta. Sin asesoría legal. Sin nombrar entidades sin evidencia verificada.
+
+**Qué resuelve:** La mayoría de los colombianos no saben que las deudas prescriben, que muchas prácticas de cobranza violan la Ley 2300/2023, o que existen herramientas formales de salida de deuda — reestructuración de crédito, Insolvencia de Persona Natural (Ley 1564/2012) — gratuitas y que en muchos casos no requieren abogado. Este proyecto pone ese conocimiento en lenguaje claro, con citas verificables, para que cualquier colombiano lo use.
+
+**Dos frentes:**
+
+**Defensivo** — saber cuándo una deuda ha prescrito, reconocer tácticas de cobranza ilegales y responder con derechos de petición, tutelas o excepciones procesales que no requieren abogado.
+
+**Activo** — comparar tu tasa de interés contra el techo legal de usura, solicitar reestructuración gratuita de crédito según tu capacidad de pago real, o iniciar un proceso de Insolvencia de Persona Natural para negociar todas tus deudas en un solo proceso legal formal.
+
+> *La barrera más común no es que la herramienta no exista — es creer que hace falta dinero para usarla.*
+
+**Cómo usarlo:**
+```bash
+cat docs/informe-situacion.md            # informe de situación completo
+cat docs/salida-de-deuda-formal.md       # mapa completo de salida de deuda
+cat docs/puedes-hacerlo-sin-abogado.md  # qué puedes hacer sin abogado
+ls plantillas/                            # cartas de petición y defensa listas para usar
+```
+
+**Estado:** Fases 0–3.6 completas · Fase 4 pendiente: difusión pública + alianzas con consultorios jurídicos universitarios y Defensoría del Pueblo. Producto futuro: calculadora de prescripción PWA + cartas de defensa autogeneradas.
+
+**Licencia:** CC BY-SA 4.0 (contenido) · MIT (software futuro).
+
+</td>
+</tr>
+</table>
